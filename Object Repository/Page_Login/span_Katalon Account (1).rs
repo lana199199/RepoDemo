@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Katalon Account (1)</name>
+   <tag></tag>
+   <elementGuidId>812b75f0-b6d5-4deb-b206-7460edfa3a7c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='centerPanel']/div/div[2]/div/div[2]/div/ul/li/button/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>42c7069f-39f1-47b6-8e70-6b3cca530c88</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dir</name>
+      <type>Main</type>
+      <value>ltr</value>
+      <webElementGuid>536c1e6d-d64c-4bb5-9f74-bdf3e11bf9b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> label bBody</value>
+      <webElementGuid>2153206c-b838-457f-b590-ef844d736200</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-aura-rendered-by</name>
+      <type>Main</type>
+      <value>14:57;a</value>
+      <webElementGuid>e62f210e-66a6-41c5-900c-396ba84d487d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Katalon Account</value>
+      <webElementGuid>c7fdf198-abee-4904-8de7-5c0887b4afd0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;centerPanel&quot;)/div[@class=&quot;siteforceSldsOneColLayout siteforceContentArea&quot;]/div[@class=&quot;slds-col--padded contentRegion comm-layout-column&quot;]/div[1]/div[@class=&quot;ui-widget&quot;]/div[@class=&quot;salesforceIdentitySocialLogin2&quot;]/ul[@class=&quot;socialOptionsContainer&quot;]/li[@class=&quot;socialOption&quot;]/button[@class=&quot;slds-button slds-button--brand uiButton--none uiButton&quot;]/span[@class=&quot;label bBody&quot;]</value>
+      <webElementGuid>43c68075-2b65-45ad-9c8e-3a6883349de0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='centerPanel']/div/div[2]/div/div[2]/div/ul/li/button/span</value>
+      <webElementGuid>efc3cbe0-2c73-4cf6-891f-64fab25bae18</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='If you are using Katalon Cloud Accounts,'])[1]/following::span[1]</value>
+      <webElementGuid>57fb59c9-43f8-4f57-a385-d33a70c827f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Refresh'])[1]/following::span[2]</value>
+      <webElementGuid>1b2edb8e-732c-47fb-bc00-179aca4dd6cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='If you are On-Premise users, please log in with your credential to the form below'])[1]/preceding::span[1]</value>
+      <webElementGuid>6b5683cb-5f8d-4125-8598-c13bde414ba5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='support@katalon.com'])[1]/preceding::span[1]</value>
+      <webElementGuid>7ce89673-fb1b-489b-a0a9-fa0752cfc2bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Katalon Account']/parent::*</value>
+      <webElementGuid>69b6652f-a50e-4903-b40f-fee10e254af9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/span</value>
+      <webElementGuid>f082a591-827b-4c30-a052-3071021cf76f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Katalon Account' or . = 'Katalon Account')]</value>
+      <webElementGuid>3174cdba-6436-465a-ac53-79e4a7052d58</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

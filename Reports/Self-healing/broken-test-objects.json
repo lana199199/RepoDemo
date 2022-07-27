@@ -1,0 +1,44 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Katalon TestOps/iframe_concat(I didn, , t get the email)_a-_e24129",
+      "brokenLocator": "//iframe[@name\u003d\u0027a-6k39ir17uzk\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div/iframe",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Katalon TestOps/iframe_concat(I didn, , t get the email)_a-_e24129_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Katalon TestOps/div_id(katalon-rec_elementInfoDiv) (1)",
+      "brokenLocator": "//div[@id\u003d\u0027katalon-rec_elementInfoDiv\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[3]/div",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Katalon TestOps/div_id(katalon-rec_elementInfoDiv) (1)_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Katalon TestOps/iframe_concat(I didn, , t get the email)_a-_65066b",
+      "brokenLocator": "//iframe[@name\u003d\u0027a-psxfltpo60cc\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div/iframe",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Katalon TestOps/iframe_concat(I didn, , t get the email)_a-_65066b_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Katalon TestOps/iframe_Email_a-a37836snguz1",
+      "brokenLocator": "//iframe[@name\u003d\u0027a-a37836snguz1\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//form[@id\u003d\u0027forgot-password-form\u0027]/div[2]/div/div/div/iframe",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Katalon TestOps/iframe_Email_a-a37836snguz1_idRelative.png"
+    }
+  ]
+}
